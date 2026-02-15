@@ -1,4 +1,4 @@
-# Retail-Sales-Operational-Analytics
+# Megastore Retail-Sales-Operational-Analytics
 ## Project Overview
 This project performs comprehensive retail performance analysis using transactional data from a MegaStore management system. 
 The objective was to evaluate revenue, profitability, operational efficiency, and customer behavior using structured KPI reporting.
